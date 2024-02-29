@@ -1,0 +1,204 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.about-us-W9D {
+  width: 100%;
+  height: 122rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #222021;
+}
+.about-us-W9D .group-35-Z7V {
+  width: 143.4rem;
+  height: 348.8rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-W9D .rectangle-49-Qto {
+  width: 144rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 -0.8rem 5.2rem rgba(245, 245, 245, 0.1700000018);
+  background-color: #1e0c06;
+  border-radius: 0 0 7.9rem 7.9rem;
+}
+.about-us-W9D .menu-DDy {
+  width: 62.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 73.55rem;
+  top: 7.5rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-W9D .menu-DDy .gallery-vu5 {
+  margin-right: 6.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-W9D .menu-DDy .gallery-2hD {
+  margin-right: 6.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-W9D .menu-DDy .gallery-kdD {
+  margin-right: 5.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #a3b8d7;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-W9D .menu-DDy .gallery-hHZ {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-W9D .logo-1p3 {
+  width: 19.7rem;
+  height: 8.3799rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-W9D .frame-7-Y3H {
+  box-sizing: border-box;
+  padding: 4.4rem 7rem 7.9rem 24.3rem;
+  width: 132.5rem;
+  height: 77.5rem;
+  position: absolute;
+  left: 0;
+  top: 28.8rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #1e0c06;
+  border-radius: 0 4.2rem 4.2rem 0;
+  box-shadow: 0 0.4rem 5.2rem rgba(245, 245, 245, 0.1700000018);
+}
+.about-us-W9D .frame-7-Y3H .auto-group-onqm-1xT {
+  margin-right: 6.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-onqm-1xT .about-us-xco {
+  margin-bottom: 6.7rem;
+  font-size: 9rem;
+  font-weight: 500;
+  line-height: 1.3290000068;
+  text-transform: uppercase;
+  color: #f5f5f5;
+  font-family: KyivType Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-onqm-1xT .bio-cwt-we-manufacture-solid-wood-products-according-to-individual-drawings-we-make-chairs-armchairs-wardrobes-beds-and-much-more-in-our-own-workshop-equipped-with-all-the-necessary-industrial-equipment-fXD {
+  margin-left: 1rem;
+  max-width: 51.2rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.3939999898;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-onqm-1xT .bio-cwt-we-manufacture-solid-wood-products-according-to-individual-drawings-we-make-chairs-armchairs-wardrobes-beds-and-much-more-in-our-own-workshop-equipped-with-all-the-necessary-industrial-equipment-fXD .bio-cwt-we-manufacture-solid-wood-products-according-to-individual-drawings-we-make-chairs-armchairs-wardrobes-beds-and-much-more-in-our-own-workshop-equipped-with-all-the-necessary-industrial-equipment-fXD-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.3939999898;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+}
+.about-us-W9D .frame-7-Y3H .auto-group-onqm-1xT .bio-cwt-we-manufacture-solid-wood-products-according-to-individual-drawings-we-make-chairs-armchairs-wardrobes-beds-and-much-more-in-our-own-workshop-equipped-with-all-the-necessary-industrial-equipment-fXD .bio-cwt-we-manufacture-solid-wood-products-according-to-individual-drawings-we-make-chairs-armchairs-wardrobes-beds-and-much-more-in-our-own-workshop-equipped-with-all-the-necessary-industrial-equipment-fXD-sub-1 {
+}
+.about-us-W9D .frame-7-Y3H .auto-group-gt31-Jc7 {
+  margin-top: 1.7rem;
+  width: 42.4rem;
+  height: 63.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-gt31-Jc7 .person-taking-measures-wood-1-33u {
+  width: 20.5rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 21.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.2rem;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-gt31-Jc7 .cropped-man-wearing-blue-overall-drawing-furniture-sheet-paper-1-9cj {
+  width: 20.5rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 21.9rem;
+  top: 43rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.2rem;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-gt31-Jc7 .group-15-3y1 {
+  width: 35rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.6rem;
+  border-radius: 4.2rem;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-gt31-Jc7 .group-15-3y1 .rectangle-41-zdM {
+  width: 33.7rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  background-color: #1e0c06;
+  border-radius: 4.2rem;
+}
+.about-us-W9D .frame-7-Y3H .auto-group-gt31-Jc7 .group-15-3y1 .portrait-young-motivated-carpenter-standing-by-woodworking-machine-his-carpentry-workshop-1-X7V {
+  width: 33.7rem;
+  height: 33.7rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.2rem;
+}
+
